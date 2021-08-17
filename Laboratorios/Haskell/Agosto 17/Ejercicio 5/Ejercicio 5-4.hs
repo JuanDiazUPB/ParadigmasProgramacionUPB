@@ -1,0 +1,9 @@
+calcularPi :: Float -> Float
+-- calcularPi se define haciendo que x tome el valor de todos los números que hay desde 0 hasta n. Esto significa que si n = 300, entonces la expresion se repetira 300 desde 0 hasta 300
+calcularPi n = 4 * sum[((-1)**x) / ((2*x)+1) | x <- [0..n]]
+
+main = do
+    print ("Digite el valor de precision que quiere darle a calcularPi")
+    input <- getLine
+    let num = read input
+    print (calcularPi num)
