@@ -1,0 +1,12 @@
+C:\Users\juanj\source\repos\Parcial1_JuanDiaz\bin\Debug\Parcial1_JuanDiaz.exe.config
+C:\Users\juanj\source\repos\Parcial1_JuanDiaz\bin\Debug\Parcial1_JuanDiaz.exe
+C:\Users\juanj\source\repos\Parcial1_JuanDiaz\bin\Debug\Parcial1_JuanDiaz.pdb
+C:\Users\juanj\source\repos\Parcial1_JuanDiaz\obj\Debug\Parcial1_JuanDiaz.csproj.AssemblyReference.cache
+C:\Users\juanj\source\repos\Parcial1_JuanDiaz\obj\Debug\Parcial1_JuanDiaz.Form1.resources
+C:\Users\juanj\source\repos\Parcial1_JuanDiaz\obj\Debug\Parcial1_JuanDiaz.Properties.Resources.resources
+C:\Users\juanj\source\repos\Parcial1_JuanDiaz\obj\Debug\Parcial1_JuanDiaz.csproj.GenerateResource.cache
+C:\Users\juanj\source\repos\Parcial1_JuanDiaz\obj\Debug\Parcial1_JuanDiaz.csproj.CoreCompileInputs.cache
+C:\Users\juanj\source\repos\Parcial1_JuanDiaz\obj\Debug\Parcial1_JuanDiaz.exe
+C:\Users\juanj\source\repos\Parcial1_JuanDiaz\obj\Debug\Parcial1_JuanDiaz.pdb
+C:\Users\juanj\source\repos\Parcial1_JuanDiaz\obj\Debug\Parcial1_JuanDiaz.Form2.resources
+C:\Users\juanj\source\repos\Parcial1_JuanDiaz\obj\Debug\Parcial1_JuanDiaz.Form3.resources
