@@ -1,0 +1,10 @@
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio 1\bin\Debug\Laboratorio 1.exe.config
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio 1\bin\Debug\Laboratorio 1.exe
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio 1\bin\Debug\Laboratorio 1.pdb
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio 1\obj\Debug\Laboratorio 1.csproj.AssemblyReference.cache
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio 1\obj\Debug\Laboratorio_1.Form1.resources
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio 1\obj\Debug\Laboratorio_1.Properties.Resources.resources
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio 1\obj\Debug\Laboratorio 1.csproj.GenerateResource.cache
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio 1\obj\Debug\Laboratorio 1.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio 1\obj\Debug\Laboratorio 1.exe
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio 1\obj\Debug\Laboratorio 1.pdb
