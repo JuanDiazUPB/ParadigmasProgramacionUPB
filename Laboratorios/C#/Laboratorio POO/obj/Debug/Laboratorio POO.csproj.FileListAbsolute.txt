@@ -1,0 +1,7 @@
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio POO\bin\Debug\Laboratorio POO.exe.config
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio POO\bin\Debug\Laboratorio POO.exe
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio POO\bin\Debug\Laboratorio POO.pdb
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio POO\obj\Debug\Laboratorio POO.csproj.AssemblyReference.cache
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio POO\obj\Debug\Laboratorio POO.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio POO\obj\Debug\Laboratorio POO.exe
+C:\Users\juanj\Documents\UPB\2do Semestre\Paradigmas de Programacion\C#\Laboratorio POO\obj\Debug\Laboratorio POO.pdb
